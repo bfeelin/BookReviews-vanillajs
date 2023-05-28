@@ -1,0 +1,30 @@
+ body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    
+    .search-container {
+      margin-bottom: 20px;
+    }
+    
+    .search-input {
+      width: 300px;
+      padding: 10px;
+      font-size: 16px;
+    }
+    
+    .search-button {
+      padding: 10px 20px 10px 20px;
+      font-size: 16px;
+    }
+    
+    .results-container {
+      margin-top: 20px;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .book-item {
+      margin-bottom: 10px;
+    }
